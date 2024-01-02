@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Bronze Mouse",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Soft Chicken",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=37203",
+      "id": 10
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26552",
+      "id": 25
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47061",
+      "id": 26
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50910",
+      "id": 27
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61417",
+      "id": 28
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86665",
+      "id": 29
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50347",
+      "id": 30
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84738",
+      "id": 31
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86490",
+      "id": 32
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3854",
+      "id": 33
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85263",
+      "id": 34
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31852",
+      "id": 35
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92811",
+      "id": 36
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=24298",
+      "id": 37
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98688",
+      "id": 38
+    }
+  ]
+}
